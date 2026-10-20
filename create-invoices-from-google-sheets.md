@@ -1,6 +1,7 @@
 ---
 title: How to create invoices from Google Sheets automatically (free)
 description: Turn each row of a Google Sheet into a PDF invoice from your own Google Docs template, and email it to the client. Free, open-source Apps Script, no add-on.
+image: https://decodedxr.github.io/sheets-doc-merge/assets/cover.png
 ---
 {% raw %}
 

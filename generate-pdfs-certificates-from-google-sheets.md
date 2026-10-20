@@ -1,6 +1,7 @@
 ---
 title: How to generate PDFs and certificates from Google Sheets (free)
 description: Create one PDF per row of a Google Sheet from a Google Docs template, and email each one. Free, open-source Apps Script, no add-on and no monthly limit.
+image: https://decodedxr.github.io/sheets-doc-merge/assets/cover.png
 ---
 {% raw %}
 

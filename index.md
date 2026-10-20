@@ -1,6 +1,7 @@
 ---
 title: Free Doc Merge for Google Sheets
 description: One PDF per row of a Google Sheet from a Google Docs template, optionally emailed: certificates, invoices, letters. Free and open source.
+image: https://decodedxr.github.io/sheets-doc-merge/assets/cover.png
 ---
 
 # Free Doc Merge for Google Sheets
