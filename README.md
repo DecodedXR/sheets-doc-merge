@@ -38,6 +38,7 @@ Each row with an **Email** gets its own PDF attached.
 
 ## More free Sheets tools
 
+- [Form Auto-Reply](https://github.com/DecodedXR/form-auto-reply): your own personalized email to every Google Form respondent.
 - [Sheets Mail Merge](https://github.com/DecodedXR/sheets-mail-merge): a personalized email to every row.
 - [Sheets Deadline Reminders](https://github.com/DecodedXR/sheets-deadline-reminders): automatic emails before a due date.
 
