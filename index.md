@@ -12,6 +12,7 @@ One PDF per row of a Google Sheet from a Google Docs template, optionally emaile
 ## Guides
 
 - [How to generate PDFs and certificates from Google Sheets](generate-pdfs-certificates-from-google-sheets.html)
+- [How to create invoices from Google Sheets automatically](create-invoices-from-google-sheets.html)
 
 ## Get it
 
