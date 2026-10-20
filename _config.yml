@@ -1,0 +1,4 @@
+title: Free Doc Merge for Google Sheets
+description: Generate one PDF per row of a Google Sheet from a Google Docs template, and email each one. Free, open source, no add-on.
+plugins:
+  - jekyll-sitemap
