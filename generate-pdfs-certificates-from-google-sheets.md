@@ -69,7 +69,7 @@ Every row with an email address gets its own PDF attached.
 
 **Is it free?** Yes. It's MIT licensed and runs on your own Google account.
 
-**How is it different from Autocrat?** Autocrat is a free but closed-source add-on with its own job setup screens. This is one readable script inside your sheet: no add-on gets access to your Drive, and you can change anything.
+**How is it different from Autocrat?** Autocrat is a free but closed-source add-on with its own job setup screens. This is one readable script inside your sheet: no add-on gets access to your Drive, and you can change anything. See [the full comparison](autocrat-alternative.html).
 
 **Can I make invoices with it?** Yes. Put `{{Invoice Number}}`, `{{Amount}}` and similar placeholders in the Doc and give each row a File Name like `Invoice 1042`.
 
