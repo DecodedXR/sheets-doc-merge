@@ -38,6 +38,7 @@ Each row with an **Email** gets its own PDF attached.
 
 ## More free Sheets tools
 
+- [Gmail CSV to Sheets](https://github.com/DecodedXR/gmail-csv-to-sheets): import emailed CSV reports into a sheet every hour.
 - [Form Prefill Links](https://github.com/DecodedXR/form-prefill-links): a pre-filled Google Form link for every row.
 - [Sheets to Calendar](https://github.com/DecodedXR/sheets-to-calendar): rows become Google Calendar events that stay in sync.
 - [Form Auto-Reply](https://github.com/DecodedXR/form-auto-reply): your own personalized email to every Google Form respondent.
