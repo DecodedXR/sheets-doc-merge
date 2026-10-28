@@ -15,6 +15,7 @@ One PDF per row of a Google Sheet from a Google Docs template, optionally emaile
 - [How to generate PDFs and certificates from Google Sheets](generate-pdfs-certificates-from-google-sheets.html)
 - [How to create invoices from Google Sheets automatically](create-invoices-from-google-sheets.html)
 - [An open-source Autocrat alternative](autocrat-alternative.html)
+- [A free Document Studio alternative (no 25-a-month cap)](document-studio-alternative.html)
 
 ## Get it
 
