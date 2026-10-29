@@ -20,3 +20,5 @@ One PDF per row of a Google Sheet from a Google Docs template, optionally emaile
 ## Get it
 
 The script and full instructions are on GitHub: [DecodedXR/sheets-doc-merge](https://github.com/DecodedXR/sheets-doc-merge). It's MIT licensed and free.
+
+Need it to work a bit differently for your sheet? [Get a custom version written for you ($49)](https://decodedxr.github.io/free-google-sheets-scripts/custom-google-sheets-script.html): tested, within 3 days, or a full refund.
